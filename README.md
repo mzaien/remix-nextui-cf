@@ -1,6 +1,7 @@
-# Welcome to Remix!
+# Welcome to Remix X Next ui
 
 - [Remix Docs](https://remix.run/docs)
+- [Nextui](https://nextui.org/)
 
 ## Development
 
